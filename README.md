@@ -23,4 +23,4 @@ end
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/<ADD_URL_HERE>.
+Bug reports and pull requests are welcome on GitHub at https://github.com/hansingt/terraspace_plugin_local.

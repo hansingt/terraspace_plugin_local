@@ -1,0 +1,5 @@
+terraform {
+  backend "local" {
+    path = "<%%= expansion(':ENV/:BUILD_DIR/terraform.tfstate') %>"
+  }
+}

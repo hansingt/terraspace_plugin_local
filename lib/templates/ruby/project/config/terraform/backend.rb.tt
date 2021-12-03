@@ -1,0 +1,3 @@
+backend("local",
+  path: ":ENV/:BUILD_DIR/terraform.tfstate", # expanded by terraspace IE: dev/modules/vm/terraform.tfstate
+)
